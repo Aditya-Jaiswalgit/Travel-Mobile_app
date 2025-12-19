@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">EasyTrip</string>
+    <string name="explore_the_nworld_with_us">Explore the \nWorld with us</string>
+    <string name="introimage">IntroImage</string>
+    <string name="intro_heading">Uncover hidden gems and craft stories. \nAdventure awaits – let\'s wander differently.</string>
+    <string name="start">Get Started</string>
+    <string name="home">Home</string>
+    <string name="ongoing">Ongoing</string>
+    <string name="search">Search</string>
+
+    <!-- Intro text -->
+    <string name="enjoy">Enjoy your trip</string>
+
+    <!-- Section headers -->
+    <string name="popular_stays">Popular Stays</string>
+    <string name="see_all">See All</string>
+</resources>
